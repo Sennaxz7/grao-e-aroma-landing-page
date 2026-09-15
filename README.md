@@ -67,6 +67,7 @@ grao-e-aroma/
 ├── css/
 │   └── style.css
 ├── assets/
+│   └── favicon.png
 │   └── preview.png
 └── README.md
 ```
@@ -86,7 +87,7 @@ Como se trata de um projeto apenas com HTML e CSS, não é necessário instalar 
 
 ## 🌐 Acesso ao projeto
 
-- Landing page publicada: `LINK_DA_LANDING_PAGE` *(a definir)*
+- Landing page publicada: https://sennaxz7.github.io/grao-e-aroma-landing-page/
 
 ---
 
